@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="U4k{r(l0,$xW#*Xb(E~7" x="0" y="0"/><block type="device_forever" id="@W7YaIe^3Sp[q5ARs#:7" x="193" y="7"><statement name="HANDLER"><block type="device_print_message" id="1fLUd6R6y`aQxa`6-8^+"><value name="text"><shadow type="text" id="h![j`H[7/j1[C}7=jrAr"><field name="TEXT">Hello,</field></shadow></value><next><block type="device_print_message" id="ogMSn_m1=c/X,Quk}=*y"><value name="text"><shadow type="text" id="%BKrt:[`[Qv!BB@}51a@"><field name="TEXT">my name is</field></shadow></value><next><block type="device_print_message" id="rOX`i#0*.DgS2zx!jn=P"><value name="text"><shadow type="text" id="RG*G=u0JT}a-5e53oNZ6"><field name="TEXT">Abhinav</field></shadow></value><next><block type="basic_show_icon" id="j7+Wp*DtZw(A(~kLJ1qA"><field name="i">IconNames.Target</field><next><block type="basic_show_icon" id="`-s-9hS9tG^ErkKmB`Y]"><field name="i">IconNames.SmallSquare</field><next><block type="device_show_leds" id="dFp/GZVBu-a;2]4R`=MU"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_clear_display" id="c:c%){1$h+}Bp8WYU`4`"/></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
